@@ -51,7 +51,7 @@ main .listagem-pokemon {
 }
 
 main .cartao-pokemon {
-    background-color: white;
+    background-color: #a6b6c4;
     width: 200px;
     padding: 15px;
     display: flex;
@@ -62,9 +62,6 @@ main .cartao-pokemon {
     transition: 0.2s ease-in-out;
 }
 
-/* main .cartao-pokemon:hover {
-    background-color: #96d9d6;
-} */
 
 main .cartao-pokemon:hover{
     background-image: linear-gradient(rgb(23, 218, 23) 30%, rgb(224, 48, 224));
@@ -129,3 +126,5 @@ main .descrocao {
     font-size: 14px;
     padding-right: 12px;
 }
+
+
